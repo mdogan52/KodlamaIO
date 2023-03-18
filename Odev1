@@ -1,0 +1,15 @@
+string = yazisal ifade "" icinde
+decimal = ondalik sayilar
+integer= tam sayi
+boolaean= yanlis dogru ifadesi
+list = listelenen objeler
+
+
+
+Kodlama Io da 
+string, decimal, integer ve list yer almakta
+herhangi bir yazi: string
+derslerin ne kadar bitirilebildigine dair yuzde decimal
+tarih, odevlerin numaralndirilmasi integer
+
+
